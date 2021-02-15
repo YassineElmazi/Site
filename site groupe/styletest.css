@@ -18,18 +18,16 @@ margin: 5px;
 padding: 5px;
 text-align: center;
 
-
-
-
-
 }
 
 #img{
 
-border: 1px solid #ddd;
+  border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
   width: 170px;
+  text-align: center;
+
           
 }
 
@@ -146,6 +144,10 @@ min-height: 400px ;
 margin-left: 160px;
 overflow: auto;
 text-align: center;
+
+img
+
+
 }
 
 #footer{
@@ -176,7 +178,6 @@ h3
 font-size:15px;
 color:#FFFFFF;
 text-align:center;
-
 font-family: cursive;
 
 }
@@ -186,10 +187,13 @@ p{
 font-size:15px;
 color:#000000;
 font-family: cursive;
-text-align: justify;
-
+text-align: left;
 
 }
+
+
+
+
 
 
 
